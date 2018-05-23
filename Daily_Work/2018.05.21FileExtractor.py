@@ -14,9 +14,9 @@ import tkinter
 from tkinter.filedialog import askdirectory
 
 
-# TopDir = askdirectory(title='Choose the Top directory')
-# TargetDir = askdirectory(title='Choose the Target directory')
-# Target_FileExtension = ('.jpg','.jpeg')
+TopDir = askdirectory(title='Choose the Top directory')
+TargetDir = askdirectory(title='Choose the Target directory')
+Target_FileExtension = ('.jpg','.jpeg','JPG')
 
 # TopDir = r'C:\Users\Megatron_chen\Desktop\Top'
 # TargetDir = r'C:\Users\Megatron_chen\Desktop\Target'
